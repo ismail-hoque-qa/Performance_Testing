@@ -27,9 +27,9 @@ https://reqres.in/
 ## Performance Testing Tools
 This repository includes configuration and setup for the following performance testing tools: 
 
-**Apache JMeter** 
+- **Apache JMeter** 
 
-**Postman** 
+- **Postman** 
 
 
 ## Downloads Apache JMeter
@@ -37,7 +37,10 @@ https://jmeter.apache.org/
 
 How To install
 ===============
-download -> unzip -> bin -> jmeter.bat
+Download
+-> unzip 
+-> bin 
+-> jmeter.bat
 
 Creating JMeter test 
 =====================
@@ -50,7 +53,7 @@ Start JMeter
 
 Add Listener
 =============
-view results in tree
+View Results in Tree
 ->Aggregate report
 ->Graph results
 ->Simple data writer
